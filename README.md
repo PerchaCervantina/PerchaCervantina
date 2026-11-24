@@ -31,7 +31,7 @@
 - 💡 Me gustan los juegos que te hacen pensar y las apps que resuelven problemas del día a día
 
 </td>
-<td width="40%" align="center">
+<td width="40%" valign="middle">
 
 ```kotlin
 val hugo = Developer(
