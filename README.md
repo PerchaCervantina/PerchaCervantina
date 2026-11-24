@@ -1,106 +1,92 @@
-<!-- Cabecera -->
+<!-- ▶ PANTALLA DE TÍTULO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14b8a6,100:a78bfa&height=200&section=header&text=Hugo%20Rejas%20Fern%C3%A1ndez&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desarrollador%20de%20aplicaciones%20%C2%B7%20Futuro%20game%20dev&descSize=18&descAlignY=58&animation=fadeIn" alt="Hugo Rejas Fernández" width="100%">
+  <img src="assets/header.svg" alt="Hugo Rejas Fernández · Dev de apps · Futuro game dev" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://perchacervantina.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Hugo+%F0%9F%91%8B;Estudiante+de+2%C2%BA+de+DAM;Apps+Android+con+Kotlin+%F0%9F%93%B1;Creando+mi+primer+videojuego+en+Unity+%F0%9F%8E%AE;Apasionado+de+la+IA+%F0%9F%A4%96" alt="Texto animado">
-  </a>
+  <a href="https://perchacervantina.github.io"><img src="https://img.shields.io/badge/▶_NUEVA_PARTIDA-Portfolio-2dd4bf?style=for-the-badge&labelColor=0d1117" alt="Portfolio"></a>
+  <a href="mailto:hugorejfer@gmail.com"><img src="https://img.shields.io/badge/✉_MULTIJUGADOR-Escríbeme-a78bfa?style=for-the-badge&labelColor=0d1117" alt="Email"></a>
+  <img src="https://img.shields.io/badge/📍_MAPA-Badajoz,_Extremadura-14b8a6?style=for-the-badge&labelColor=0d1117" alt="Ubicación">
 </p>
+
+<br>
+
+## 🕹️ Jugador 1
 
 <p align="center">
-  <a href="https://perchacervantina.github.io"><img src="https://img.shields.io/badge/Portfolio-perchacervantina.github.io-2dd4bf?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" alt="Portfolio"></a>
-  <a href="mailto:hugorejfer@gmail.com"><img src="https://img.shields.io/badge/Email-hugorejfer%40gmail.com-2dd4bf?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Badajoz-Extremadura-2dd4bf?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Ubicación">
-  <img src="https://komarev.com/ghpvc/?username=PerchaCervantina&label=Visitas&color=14b8a6&style=for-the-badge" alt="Visitas">
+  <img src="assets/player.svg" alt="Ficha de personaje: Hugo, desarrollador multiplataforma, 2º DAM" width="100%">
 </p>
 
+Estudio **2º de DAM** y ya he hecho **apps Android para organizaciones reales**. Ahora estoy dando el salto al desarrollo de videojuegos con **Unity y C#**. Me gustan los juegos que te obligan a pensar y las apps que resuelven problemas del día a día.
 
-## 🧑‍💻 Sobre mí
+<br>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-- 🎓 Estudio **2º de DAM** en el IES Donoso Cortés (Don Benito)
-- 📱 He desarrollado **apps Android para organizaciones reales**
-- 🎮 Estoy creando mi primer videojuego, **HUG**, en Unity con C#
-- 🤖 Me interesa mucho la **inteligencia artificial** y la uso a diario como asistente de desarrollo
-- 🔍 Busco mi **primer empleo** en videojuegos o IA
-- 💡 Me gustan los juegos que te hacen pensar y las apps que resuelven problemas del día a día
-
-</td>
-<td width="40%" valign="middle">
-
-```kotlin
-val hugo = Developer(
-    rol = "Estudiante DAM",
-    lenguajes = listOf("Kotlin", "Java", "SQL"),
-    aprendiendo = "C# + Unity",
-    meta = "Crear videojuegos 🎮",
-    cafe = true
-)
-```
-
-</td>
-</tr>
-</table>
-
-## 🛠️ Tecnologías
+## 🎒 Inventario
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,mysql,androidstudio,flutter,cs,unity,git,github&perline=9" alt="Tecnologías">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-dominio-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-dominio-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-dominio-336791?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-aprendiendo-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-aprendiendo-000000?style=flat-square&logo=unity&logoColor=white">
-</p>
+| Objeto | Rareza | Estado |
+|:--|:--|:--|
+| <img src="https://skillicons.dev/icons?i=kotlin" width="18"> **Kotlin** | `SSR` ★★★★★ | ⚔️ Equipado |
+| <img src="https://skillicons.dev/icons?i=java" width="18"> **Java** | `SSR` ★★★★★ | ⚔️ Equipado |
+| <img src="https://skillicons.dev/icons?i=mysql" width="18"> **SQL** | `SR` ★★★★ | ⚔️ Equipado |
+| <img src="https://skillicons.dev/icons?i=androidstudio" width="18"> **Android Studio** | `SR` ★★★★ | 🛠️ Herramienta principal |
+| <img src="https://skillicons.dev/icons?i=flutter" width="18"> **Flutter** | `R` ★★★ | 📈 Subiendo de nivel… |
+| <img src="https://skillicons.dev/icons?i=git" width="18"> **Git · GitHub** | `SR` ★★★★ | 🛠️ Uso diario |
+| <img src="https://skillicons.dev/icons?i=cs" width="18"> **C#** | `R` ★★★ | 📈 Subiendo de nivel… |
+| <img src="https://skillicons.dev/icons?i=unity" width="18"> **Unity** | `R` ★★★ | 📈 Subiendo de nivel… |
 
-## 🚀 Proyectos destacados
+<br>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+## 📜 Diario de misiones
 
-### 🎸 App Titanium
-App oficial de una asociación de música rock: **próximos eventos**, formas de contacto y **galería de fotos y vídeos** de sus conciertos.
+> [!TIP]
+> **✅ MISIÓN COMPLETADA · 🎸 App Titanium**
+>
+> App oficial de una asociación de música rock: próximos eventos, formas de contacto y galería de fotos y vídeos de sus conciertos.
+>
+> `Kotlin` `Android` · **Botín:** [📂 Código](https://github.com/PerchaCervantina/AppTitanium) · [⬇️ Descargar APK](https://github.com/PerchaCervantina/AppTitanium/raw/feature/admin-accounts/distribucion/titanium.apk)
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+> [!TIP]
+> **✅ MISIÓN COMPLETADA · 🥗 Sensia**
+>
+> Para personas con alergias, sensibilidades o intolerancias: escaneas el código de barras o la lista de ingredientes y te avisa si el producto lleva algo que no puedes tomar.
+>
+> `Kotlin` `Android`
 
-[📂 Código](https://github.com/PerchaCervantina/AppTitanium) · [⬇️ APK](https://github.com/PerchaCervantina/AppTitanium/raw/feature/admin-accounts/distribucion/titanium.apk)
+> [!IMPORTANT]
+> **⏳ MISIÓN PRINCIPAL EN CURSO · ⚔️ HUG**
+>
+> Mi primer videojuego: un RPG por turnos con sistema gacha, donde cada combate es una decisión estratégica.
+>
+> `C#` `Unity` · 🚧 En desarrollo
 
-</td>
-<td width="33%" valign="top">
+<br>
 
-### 🥗 Sensia
-Para personas con **alergias o intolerancias**: escanea el **código de barras** o los **ingredientes** y avisa si el producto lleva algo que no puedes tomar.
+## 🏆 Logros desbloqueados
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+| | Logro | Cómo se consiguió |
+|:-:|:--|:--|
+| 🥇 | **Primer cliente real** | Publicar una app para una asociación de verdad |
+| 🔍 | **Detective de etiquetas** | Hacer que el móvil lea ingredientes por ti |
+| 🎮 | **Modo creador** | Empezar a desarrollar un videojuego propio |
+| 🤝 | **Party de dos** | Programar con una IA como compañera: ella me ayuda a avanzar y aprender, pero las decisiones y el código final son míos |
 
-</td>
-<td width="33%" valign="top">
+<details>
+<summary>🔒 <b>Logro oculto</b> (pulsa para desbloquear)</summary>
+<br>
 
-### ⚔️ HUG <sub>🚧 en desarrollo</sub>
-Mi primer videojuego: un **RPG por turnos** con **sistema gacha**, donde cada combate es una decisión estratégica.
+> **⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️🅱️🅰️ · Explorador incansable**
+>
+> Has leído este perfil hasta aquí. Eso ya dice bastante de ti. ¿Hablamos?
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+</details>
 
-</td>
-</tr>
-</table>
+<br>
 
-> 🤖 Desarrollo con **IA como asistente** (Claude): me ayuda a avanzar y a aprender, pero las decisiones y el código final son míos.
-
-## 📊 Estadísticas
+## 📊 Estadísticas de partida
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=PerchaCervantina&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=a78bfa&text_color=c9d1d9&locale=es&rank_icon=github" alt="Estadísticas de GitHub">
@@ -111,18 +97,26 @@ Mi primer videojuego: un **RPG por turnos** con **sistema gacha**, donde cada co
   <img src="https://streak-stats.demolab.com?user=PerchaCervantina&hide_border=true&background=0d1117&ring=2dd4bf&fire=a78bfa&currStreakLabel=2dd4bf&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&locale=es" alt="Racha de contribuciones">
 </p>
 
+<p align="center"><sub>🐍 Mis contribuciones, convertidas en un nivel de Snake</sub></p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PerchaCervantina&bg_color=0d1117&color=2dd4bf&line=a78bfa&point=ffffff&area=true&area_color=14b8a6&hide_border=true&custom_title=Mi%20actividad" alt="Gráfica de actividad">
+  <img src="https://raw.githubusercontent.com/PerchaCervantina/PerchaCervantina/output/snake.svg" alt="Snake comiéndose mis contribuciones" width="100%">
 </p>
 
-## 📫 ¿Hablamos?
+<br>
+
+## 💾 Punto de guardado
 
 <p align="center">
-  ¿Tienes una oportunidad, un proyecto o simplemente quieres saludar?<br><br>
-  <a href="mailto:hugorejfer@gmail.com"><img src="https://img.shields.io/badge/Escríbeme-2dd4bf?style=for-the-badge&logo=gmail&logoColor=white" alt="Escríbeme"></a>
-  <a href="https://perchacervantina.github.io"><img src="https://img.shields.io/badge/Mi%20portfolio-a78bfa?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <i>Es peligroso ir solo. Llévate esto:</i>
+  <br><br>
+  <a href="mailto:hugorejfer@gmail.com"><img src="https://img.shields.io/badge/hugorejfer@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=2dd4bf" alt="Email"></a>
+  <a href="https://perchacervantina.github.io"><img src="https://img.shields.io/badge/perchacervantina.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=a78bfa" alt="Portfolio"></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:14b8a6,100:0d1117&height=110&section=footer" width="100%" alt="">
+  <img src="assets/footer.svg" alt="¿Continuar? Gracias por jugar" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PerchaCervantina&label=Partidas%20jugadas&color=14b8a6&style=flat-square" alt="Visitas">
 </p>
